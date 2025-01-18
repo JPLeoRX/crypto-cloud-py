@@ -1,6 +1,7 @@
 # Build
 build
 dist
+crypto_cloud_py.egg-info
 
 # IDE
 **/target/
